@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-15T21:48:56 IST" name="ParaBankSuite" finished-at="2026-06-15T21:49:41 IST" duration-ms="45115">
+    <groups>
+    </groups>
+    <test started-at="2026-06-15T21:48:56 IST" name="ParaBankTests" finished-at="2026-06-15T21:49:41 IST" duration-ms="45115">
+      <class name="testcases.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RegisterTest@34a3d150]" started-at="2026-06-15T21:48:56 IST" name="setup" finished-at="2026-06-15T21:49:02 IST" duration-ms="5563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationAndLogin()[pri:0, instance:testcases.RegisterTest@34a3d150]" started-at="2026-06-15T21:49:02 IST" name="verifyRegistrationAndLogin" finished-at="2026-06-15T21:49:10 IST" duration-ms="8090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationAndLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.RegisterTest@34a3d150]" started-at="2026-06-15T21:49:10 IST" name="tearDown" finished-at="2026-06-15T21:49:10 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.RegisterTest -->
+      <class name="testcases.DemoTest">
+        <test-method signature="test()[pri:0, instance:testcases.DemoTest@776aec5c]" started-at="2026-06-15T21:49:41 IST" name="test" finished-at="2026-06-15T21:49:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testcases.DemoTest -->
+      <class name="testcases.TransferFundsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.TransferFundsTest@5bf0d49]" started-at="2026-06-15T21:49:10 IST" name="setup" finished-at="2026-06-15T21:49:15 IST" duration-ms="4309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTransferFunds()[pri:0, instance:testcases.TransferFundsTest@5bf0d49]" started-at="2026-06-15T21:49:15 IST" name="verifyTransferFunds" finished-at="2026-06-15T21:49:26 IST" duration-ms="11803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransferFunds -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TransferFundsTest@5bf0d49]" started-at="2026-06-15T21:49:26 IST" name="tearDown" finished-at="2026-06-15T21:49:27 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TransferFundsTest -->
+      <class name="testcases.BillPayTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.BillPayTest@5b7a5baa]" started-at="2026-06-15T21:49:27 IST" name="setup" finished-at="2026-06-15T21:49:32 IST" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBillPayment()[pri:0, instance:testcases.BillPayTest@5b7a5baa]" started-at="2026-06-15T21:49:32 IST" name="verifyBillPayment" finished-at="2026-06-15T21:49:41 IST" duration-ms="9307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBillPayment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.BillPayTest@5b7a5baa]" started-at="2026-06-15T21:49:41 IST" name="tearDown" finished-at="2026-06-15T21:49:41 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.BillPayTest -->
+    </test> <!-- ParaBankTests -->
+  </suite> <!-- ParaBankSuite -->
+</testng-results>
